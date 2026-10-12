@@ -25,10 +25,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Weapons, Enemies, Guides & Secrets",
   description: "Your ultimate PAPERHEAD guide! Explore weapons, enemies, secrets, walkthroughs and tips for the dark cardboard horror boomer shooter on Steam.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://paperhead.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://paperhead.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@paperhead.top",
   gameUrl: "https://store.steampowered.com/app/2680280/",
   heroVideoId: "XbQBUMcaktk", // PAPERHEAD Official Demo Trailer
   social: {
+    discord: "https://steamcommunity.com/app/2680280/",
     youtube: "https://www.youtube.com/watch?v=XbQBUMcaktk",
   },
   locales: ["en", "es", "pt", "de", "fr"],
