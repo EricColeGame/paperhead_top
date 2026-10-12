@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "weapons": "Weapons",
+    "levels": "Levels",
+    "platforms": "Platforms",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -437,7 +444,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "PAPERHEAD Guide",
+    "overviewDescription": "Walkthroughs, beginner tips, secrets, achievements and how long to beat PAPERHEAD — everything you need to survive the papercraft horror."
+  },
+  "mechanics": {
+    "overviewTitle": "PAPERHEAD Game Mechanics",
+    "overviewDescription": "How PAPERHEAD works: its story and lore, multiple endings, multiplayer, graffiti system and the horror design that drives the whole experience."
+  },
+  "characters": {
+    "overviewTitle": "PAPERHEAD Characters & Bosses",
+    "overviewDescription": "Meet the PAPERHEAD cast, bosses, enemies and voice actors, with tips on how each character and encounter shapes your run."
+  },
+  "weapons": {
+    "overviewTitle": "PAPERHEAD Weapons & Combat",
+    "overviewDescription": "Compare PAPERHEAD weapons, plan your loadouts and master combat so you can blast through every cardboard monster in your path."
+  },
+  "levels": {
+    "overviewTitle": "PAPERHEAD Levels & Chapters",
+    "overviewDescription": "Chapter-by-chapter PAPERHEAD level guides, collectibles and speedrun routes covering Chapter 1 through Chapter 4 and beyond."
+  },
+  "platforms": {
+    "overviewTitle": "PAPERHEAD Platforms",
+    "overviewDescription": "Where to play PAPERHEAD — Steam, Steam Deck and console availability, plus performance and setup details before you buy."
+  },
+  "release": {
+    "overviewTitle": "PAPERHEAD Release & Media",
+    "overviewDescription": "PAPERHEAD release date news, demo details, trailers, soundtrack and OST so you can follow the game right up to launch day."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
