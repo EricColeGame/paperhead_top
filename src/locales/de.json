@@ -1,1 +1,511 @@
-{}
+{
+  "site": {
+    "name": "PAPERHEAD Wiki",
+    "shortName": "PAPERHEAD",
+    "tagline": "Waffen, Gegner, Guides & Geheimnisse",
+    "description": "Dein ultimativer PAPERHEAD-Guide! Entdecke Waffen, Gegner, Geheimnisse, Walkthroughs und Tipps für den düsteren Papp-Horror-Boomer-Shooter auf Steam.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechaniken",
+    "characters": "Charaktere",
+    "weapons": "Waffen",
+    "levels": "Level",
+    "platforms": "Plattformen",
+    "release": "Release"
+  },
+  "home": {
+    "meta": {
+      "title": "PAPERHEAD Wiki – Waffen, Guide & Geheimnisse",
+      "description": "Komplette PAPERHEAD Wiki mit Waffen, Gegnern, Gameplay-Guides, Geheimnissen, Walkthroughs und Tipps für die düstere Papp-Horror-Shooter-Welt."
+    },
+    "hero": {
+      "eyebrow": "Schneller Papercraft-Horror-Boomer-Shooter",
+      "title": "PAPERHEAD Wiki",
+      "description": "PAPERHEAD ist ein rasanter Ego-Shooter im Boomer-Stil, in dem Spieler eine dunkle Pappwelt erkunden, Gegner mit mächtigen Waffen bekämpfen und mit einem magischen Bleistift das Geheimnis hinter dem blutenden Papieruniversum lüften.",
+      "stats": [
+        "254 Nutzerrezensionen",
+        "1 spielbare Kampagne",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Auf Steam spielen",
+      "secondaryCta": "Einsteiger-Guide",
+      "tertiaryCta": "Waffen-Guide",
+      "videoLabel": "Offizieller Demo-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine PAPERHEAD-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Kernschleife von PAPERHEAD kennen – Bewegung, Kampf, Ressourcen und die Early-Game-Tipps, die dich in der Papp-Horrorwelt am Leben halten."
+        },
+        {
+          "number": "2",
+          "title": "Kampf-Grundlagen",
+          "description": "Meistere Ausweichen, Waffenwechsel, Ausdauermanagement und Gelände, damit jede Begegnung in PAPERHEAD zu deinen Gunsten endet."
+        },
+        {
+          "number": "3",
+          "title": "Waffen-Guide",
+          "description": "Vergleiche jede PAPERHEAD-Waffenkategorie, von Nahkampf-Schrotflinten bis zu Flächenblastern, und stelle das Loadout zusammen, das zu deinem Spielstil passt."
+        },
+        {
+          "number": "4",
+          "title": "Erster Boss-Guide",
+          "description": "Lerne Angriffsmuster, erkenne Verwundbarkeitsfenster und besiege deinen ersten PAPERHEAD-Boss, ohne all deine Ressourcen zu verbrauchen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Waffen-Guide",
+        "Boss-Guides",
+        "Alle Geheimnisse"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du brauchst – von den ersten Schritten bis zur Meisterung von Kampf und Fortschritt in PAPERHEAD.",
+          "href": "/guide/paperhead-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Waffen-Guide",
+          "description": "Jede PAPERHEAD-Waffenkategorie mit Ranking und Loadout-Tipps für Bosse und dichte Gegnerwellen.",
+          "href": "/weapons/paperhead-weapons"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Gegner-Guide",
+          "description": "Gegnerverhalten, Schwachpunkte und die Konter, die jeden Kampf zu deinen Gunsten drehen.",
+          "href": "/characters/paperhead-enemies"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Boss-Guide",
+          "description": "Jeder PAPERHEAD-Bosstyp, Angriffsmuster und die Strategie, die jeden besiegt.",
+          "href": "/characters/paperhead-bosses"
+        },
+        {
+          "badge": "Neu",
+          "title": "Geheimnisse & versteckte Gebiete",
+          "description": "Versteckte Räume, alternative Wege und übersehene Mechaniken in der Papierwelt.",
+          "href": "/guide/paperhead-secrets"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Erfolge-Guide",
+          "description": "Story-, Erkundungs-, Kampf- und Geheim-Erfolge mit klaren Bedingungen.",
+          "href": "/guide/paperhead-achievements-guide"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kampf-Grundlagen",
+          "description": "Positionierung, Ausdauermanagement und Waffenwechsel für jede Begegnung.",
+          "href": "/weapons/paperhead-combat"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Story & Lore",
+          "description": "Die PAPERHEAD-Erzählung, Identität, Erinnerung und der Lore hinter dem Geheimnis.",
+          "href": "/mechanics/paperhead-story"
+        },
+        {
+          "badge": "Neu",
+          "title": "Kompletter Walkthrough",
+          "description": "Eine vollständige Route Kapitel für Kapitel durch die PAPERHEAD-Kampagne.",
+          "href": "/guide/paperhead-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist PAPERHEAD?",
+      "paragraphs": [
+        "PAPERHEAD ist ein rasanter Ego-Shooter im Boomer-Stil, der in einer dunklen Pappwelt spielt. Spieler metzeln sich mit einem Arsenal an Waffen und einem magischen Bleistift durch Horden von Papier- und Pappmonstern und jagen dem Geheimnis hinter dem blutenden Papieruniversum nach.",
+        "Jede Zone faltet sich um dich herum auf und verbirgt Geheimnisse, Sammelobjekte und alternative Wege. Zwischen brutalen Bosskämpfen und verborgener Lore belohnt PAPERHEAD Neugier und schnelle Reflexe gleichermaßen."
+      ],
+      "stats": [
+        {
+          "label": "Plattform",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "Genre",
+          "value": "Horror-Boomer-Shooter"
+        },
+        {
+          "label": "Nutzerrezensionen",
+          "value": "254"
+        },
+        {
+          "label": "Kampagne",
+          "value": "1 spielbar"
+        },
+        {
+          "label": "Sprachen",
+          "value": "4"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "PAPERHEAD Wiki erkunden",
+      "description": "Tauche in jedes PAPERHEAD-System ein – mit Einsteiger-Walkthroughs, Waffen-Tiers, Gegneranalysen, versteckten Geheimnissen und vollständiger Erfolgsverfolgung.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "PAPERHEAD Einsteiger-Guide",
+          "description": "Ein Starter-Guide zur Kern-Gameplay-Schleife, zu Kampfsystemen, Waffen, Bewegung und den frühen Tipps, die neuen Spielern das Überleben in der Papp-Horrorwelt erleichtern.",
+          "href": "/guide/paperhead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Sieh dir das Tutorial an und lerne die Kernschleife: erkunden, sammeln, entscheiden, kämpfen und ausruhen"
+            },
+            {
+              "label": "2",
+              "detail": "Mach dich mit Bewegung, Ausweichen und deiner Startwaffe vertraut, bevor du tiefer vordringst"
+            },
+            {
+              "label": "3",
+              "detail": "Verwalte knappe Ressourcen – gib sie aus, wenn es zählt, und spare, wenn nicht"
+            },
+            {
+              "label": "4",
+              "detail": "Studiere das Angriffsmuster jedes Gegners, bevor du dich auf einen Kampf einlässt"
+            },
+            {
+              "label": "5",
+              "detail": "Nutze Gelände, Engpässe und erhöhte Positionen, um jede Begegnung zu kontrollieren"
+            },
+            {
+              "label": "6",
+              "detail": "Besuche Gebiete nach wichtigen Story-Momenten erneut, um verborgene Belohnungen und Abkürzungen zu finden"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "PAPERHEAD Waffen-Guide",
+          "description": "Eine vollständige Analyse des PAPERHEAD-Arsenals, inklusive Schrotflinten, magischem Bleistift und Flächenblastern, mit Tier-Rankings und Loadout-Tipps.",
+          "href": "/weapons/paperhead-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Schwerer Flächenblaster – dominant in Bosskämpfen und dichten Gegnerwellen"
+            },
+            {
+              "label": "A",
+              "detail": "Präzisionsgewehr und Mittelstrecken-Sturmwaffe – vielseitige Wahl für die meisten Begegnungen"
+            },
+            {
+              "label": "B",
+              "detail": "Nahkampf-Schrotflinten-Stil und Support-Werkzeuge – stark in den richtigen Händen"
+            },
+            {
+              "label": "C",
+              "detail": "Grundlegende Startwaffen – zuverlässig im Early Game, werden mit dem Fortschritt ersetzt"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "PAPERHEAD Gegner-Guide",
+          "description": "Jeder PAPERHEAD-Gegnertyp mit Verhalten, Schwachpunkten und den Kontern, die eine tödliche Begegnung in einen leichten Sieg verwandeln.",
+          "href": "/characters/paperhead-enemies",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Drohnen",
+              "detail": "Schnelle, unberechenbare Papierdrohnen, die in Gruppen von fünf oder mehr schwärmen"
+            },
+            {
+              "label": "Brocken",
+              "detail": "Langsame Papp-Panzer – umkreise sie und triff die Rücken-Falz"
+            },
+            {
+              "label": "Schleicher",
+              "detail": "Origami-Schleicher, die aus dem Verborgenen auflauern – achte auf jede Ecke"
+            },
+            {
+              "label": "Wächter",
+              "detail": "Gefaltete Wächter feuern Projektile – nutze Deckung, um die Lücke zu schließen"
+            },
+            {
+              "label": "Elende",
+              "detail": "Zerrissene Elende stürmen in Schwärmen heran – antworte mit Flächenangriffen"
+            },
+            {
+              "label": "Elite",
+              "detail": "Laminat-Elite verkettet mehrphasige Combos – lerne ihre Fenster"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "PAPERHEAD Geheimnisse-Guide",
+          "description": "Versteckte Gebiete, geheime Räume und übersehene Mechaniken, die neugierige PAPERHEAD-Spieler mit seltener Beute und Lore belohnen.",
+          "href": "/guide/paperhead-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Archiv",
+              "detail": "Falte die Rückwand der Bibliothek dreimal, um das Zerknitterte Archiv zu öffnen"
+            },
+            {
+              "label": "Tintenmulde",
+              "detail": "Lösche eine leere Wand, um einen verborgenen NPC und optionalen Side-Content aufzudecken"
+            },
+            {
+              "label": "Durchgang",
+              "detail": "Stapel zwei Papierobjekte an der Kreuzung, um eine Zonen-Abkürzung freizuschalten"
+            },
+            {
+              "label": "Ohne Treffer",
+              "detail": "Räume eine Zone ohne Schaden zu nehmen, um ein alternatives Ende zu starten"
+            },
+            {
+              "label": "Rand",
+              "detail": "Lies jedes In-Game-Buch der Reihe nach, um Entwicklerkommentare freizuschalten"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "PAPERHEAD Erfolge-Guide",
+          "description": "Schalte jeden PAPERHEAD-Erfolg mit klaren Bedingungen für Story-, Erkundungs-, Kampf-, Sammel- und Challenge-Erfolge frei.",
+          "href": "/guide/paperhead-achievements-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Erreiche Story-Meilensteine ganz natürlich, indem du die Hauptkampagne abschließt"
+            },
+            {
+              "label": "Erkunden",
+              "detail": "Belohnt gründliche Kartenerkundung und das Entdecken verborgener Gebiete"
+            },
+            {
+              "label": "Kampf",
+              "detail": "Besiege Gegner unter bestimmten Bedingungen, um Meisterschaftstrophäen zu erhalten"
+            },
+            {
+              "label": "Sammeln",
+              "detail": "Spüre jeden Sammelobjekttyp auf für die härtesten Freischaltungen"
+            },
+            {
+              "label": "Geheim",
+              "detail": "Löse obskure Interaktionen und Easter Eggs aus für versteckte Erfolge"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Meistere Abschnitte unter Zeit- oder Bedingungslimits für Challenge-Freischaltungen"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "PAPERHEAD Story-Guide",
+          "description": "Die vollständige PAPERHEAD-Erzählung erklärt – Identität, Erinnerung und die offen versteckte Lore in jedem Kapitel.",
+          "href": "/mechanics/paperhead-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Identität",
+              "detail": "Dein Papierkopf wird durch deine Entscheidungen neu geschrieben"
+            },
+            {
+              "label": "Erinnerung",
+              "detail": "Erneut besuchte Gebiete verändern sich, während die Vergangenheit verschwimmt und sich widerspricht"
+            },
+            {
+              "label": "Druck",
+              "detail": "NPCs schreiben ihre Dialoge basierend auf deinen früheren Entscheidungen um"
+            },
+            {
+              "label": "Enden",
+              "detail": "Mehrere Enden verzweigen sich danach, wie du die Welt behandelst"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "PAPERHEAD Systemanforderungen",
+          "description": "Plattformunterstützung, PC-Anforderungen und das PAPERHEAD-Steuerungsschema in einer schnellen Übersicht für neue Spieler.",
+          "href": "/platforms/paperhead-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Bewegung und Strafing durch die Pappwelt"
+            },
+            {
+              "label": "Maus",
+              "detail": "Zielen, feuern und Waffen mitten im Kampf wechseln"
+            },
+            {
+              "label": "E",
+              "detail": "Interagiere mit Türen, Notizen und gefalteten Objekten"
+            },
+            {
+              "label": "Shift",
+              "detail": "Sprinten und Ausweichen, um gegnerische Angriffsmuster zu durchbrechen"
+            },
+            {
+              "label": "Win 10/11",
+              "detail": "Für die Steam-Version ist ein 64-Bit-Windows-PC erforderlich"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "PAPERHEAD Updates & News",
+          "description": "Offizielle PAPERHEAD-Ankündigungen, Patch Notes, Demo-News und Release-Infos an einem Ort.",
+          "href": "/release/paperhead-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Folge offiziellen Patch Notes und Balance-Änderungen"
+            },
+            {
+              "label": "Demo",
+              "detail": "Probiere die kostenlose Steam-Demo vor dem Vollrelease"
+            },
+            {
+              "label": "Release",
+              "detail": "Verfolge das Startdatum und die Plattform-Einführung"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Sieh dir den offiziellen Demo-Trailer und Gameplay-Reveals an"
+            },
+            {
+              "label": "Soundtrack",
+              "detail": "Original-Soundtrack und Audio-Veröffentlichungen zum Spiel"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "PAPERHEAD FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu PAPERHEAD.",
+      "items": [
+        {
+          "question": "Was ist PAPERHEAD?",
+          "answer": "PAPERHEAD ist ein rasanter Ego-Shooter im Boomer-Stil, der in einer dunklen Pappwelt spielt. Du bekämpfst Papier- und Pappmonster mit mächtigen Waffen und einem magischen Bleistift und lüftest dabei das Geheimnis hinter dem blutenden Papieruniversum."
+        },
+        {
+          "question": "Ist PAPERHEAD auf Steam erhältlich?",
+          "answer": "Ja. PAPERHEAD ist ein auf Steam verkauftes PC-Spiel und unterstützt Cloud-Speicher, Erfolge und eine kostenlose Demo, die du vor dem Kauf der Vollversion ausprobieren kannst."
+        },
+        {
+          "question": "Wie schwierig ist PAPERHEAD für neue Spieler?",
+          "answer": "PAPERHEAD ist gnadenlos, aber fair. Der Einsteiger-Guide behandelt Bewegung, Waffenwechsel und Ressourcenmanagement, damit du deine ersten Stunden überlebst, ohne Munition zu verschwenden."
+        },
+        {
+          "question": "Hat PAPERHEAD mehrere Enden?",
+          "answer": "Ja. Die PAPERHEAD-Story reagiert darauf, wie du die Welt behandelst, und eine Zone ohne Schaden abzuschließen kann einen alternativen Endpfad auslösen."
+        },
+        {
+          "question": "Wie schalte ich jeden PAPERHEAD-Erfolg frei?",
+          "answer": "PAPERHEAD-Erfolge umfassen Story-Meilensteine, Erkundung, Kampfmeisterschaft, Sammelobjekte, Geheimnisse und Speedruns. Prüfe den Erfolge-Guide für jede Freischaltungsbedingung."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, PAPERHEAD zu meistern?",
+      "description": "Von deinen ersten Schritten in der dunklen Pappwelt bis zu Endgame-Bosskämpfen – unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "PAPERHEAD Guide",
+    "overviewDescription": "Walkthroughs, Einsteiger-Tipps, Geheimnisse, Erfolge und die Spielzeit von PAPERHEAD – alles, was du brauchst, um den Papercraft-Horror zu überleben."
+  },
+  "mechanics": {
+    "overviewTitle": "PAPERHEAD Spielmechaniken",
+    "overviewDescription": "Wie PAPERHEAD funktioniert: Story und Lore, mehrere Enden, Multiplayer, das Graffiti-System und das Horrordesign, das das gesamte Erlebnis antreibt."
+  },
+  "characters": {
+    "overviewTitle": "PAPERHEAD Charaktere & Bosse",
+    "overviewDescription": "Lerne die PAPERHEAD-Besetzung, Bosse, Gegner und Synchronsprecher kennen, mit Tipps, wie jede Figur und Begegnung deinen Durchlauf prägt."
+  },
+  "weapons": {
+    "overviewTitle": "PAPERHEAD Waffen & Kampf",
+    "overviewDescription": "Vergleiche PAPERHEAD-Waffen, plane deine Loadouts und meistere den Kampf, um jeden Pappmonster auf deinem Weg wegzublasen."
+  },
+  "levels": {
+    "overviewTitle": "PAPERHEAD Level & Kapitel",
+    "overviewDescription": "Kapitel-für-Kapitel-Level-Guides für PAPERHEAD, Sammelobjekte und Speedrun-Routen von Kapitel 1 bis Kapitel 4 und darüber hinaus."
+  },
+  "platforms": {
+    "overviewTitle": "PAPERHEAD Plattformen",
+    "overviewDescription": "Wo du PAPERHEAD spielen kannst – Steam, Steam Deck und Konsolenverfügbarkeit, plus Performance- und Setup-Details vor dem Kauf."
+  },
+  "release": {
+    "overviewTitle": "PAPERHEAD Release & Medien",
+    "overviewDescription": "PAPERHEAD-Release-Date-News, Demo-Details, Trailer, Soundtrack und OST, damit du das Spiel bis zum Launch verfolgen kannst."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "PAPERHEAD Wiki",
+    "about": "PAPERHEAD Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Waffen, Gegnern, Bossen, Geheimnissen, Walkthroughs und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 PAPERHEAD Wiki. Nicht mit den PAPERHEAD-Entwicklern oder Steam verbunden.",
+    "description": "Schneller Papercraft-Horror-Boomer-Shooter auf Steam. Vernichte Pappmonster mit mächtigen Waffen und einem magischen Bleistift.",
+    "playGame": "PAPERHEAD auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Steam-Seite",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Waffen-Guide",
+    "bossGuides": "Gegner-Guides",
+    "buildGuide": "Boss-Guides",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

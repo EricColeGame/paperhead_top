@@ -257,14 +257,40 @@ const GROUP_TITLES_JA: Record<string, string> = {
   release: "リリース & メディア",
 };
 
+// 俄文分组标题映射
+const GROUP_TITLES_RU: Record<string, string> = {
+  guide: "С чего начать",
+  mechanics: "Игровые механики",
+  characters: "Персонажи и боссы",
+  weapons: "Оружие и бой",
+  levels: "Уровни и главы",
+  platforms: "Платформы",
+  release: "Релиз и медиа",
+};
+
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Erste Schritte",
+  mechanics: "Spielmechaniken",
+  characters: "Charaktere & Bosse",
+  weapons: "Waffen & Kampf",
+  levels: "Level & Kapitel",
+  platforms: "Plattformen",
+  release: "Release & Medien",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ru: GROUP_TITLES_RU,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ru: "Обзор",
+  de: "Übersicht",
 };
 
 // 分组排序顺序

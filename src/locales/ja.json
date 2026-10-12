@@ -1,1 +1,511 @@
-{}
+{
+  "site": {
+    "name": "PAPERHEAD Wiki",
+    "shortName": "PAPERHEAD",
+    "tagline": "武器、敵、ガイド、秘密",
+    "description": "PAPERHEAD の決定版ガイド！Steam のダークな段ボールホラー・ブーマーシューターの武器、敵、秘密、攻略、ヒントを網羅。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーがプレイヤーのために作成。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "ゲームシステム",
+    "characters": "キャラクター",
+    "weapons": "武器",
+    "levels": "レベル",
+    "platforms": "プラットフォーム",
+    "release": "リリース"
+  },
+  "home": {
+    "meta": {
+      "title": "PAPERHEAD Wiki - 武器、ガイド、秘密",
+      "description": "武器、敵、ゲームプレイガイド、秘密、攻略、ヒントを網羅した完全版 PAPERHEAD Wiki。ダークな段ボールホラーシューターの世界を探検しよう。"
+    },
+    "hero": {
+      "eyebrow": "高速ペーパークラフト・ホラー・ブーマーシューター",
+      "title": "PAPERHEAD Wiki",
+      "description": "PAPERHEAD は、プレイヤーがダークな段ボールの世界を探索し、強力な武器で敵と戦い、魔法の鉛筆を使って血に染まる紙の世界の謎を解き明かす、高速な一人称ブーマーシューターアドベンチャーです。",
+      "stats": [
+        "ユーザーレビュー 254 件",
+        "プレイ可能なキャンペーン 1 本",
+        "有効コード 0 件",
+        "毎週アップデート"
+      ],
+      "primaryCta": "Steam でプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "武器ガイド",
+      "videoLabel": "公式デモトレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "PAPERHEAD の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "PAPERHEAD の基本ループを学ぼう — 移動、戦闘、資源、そして段ボールのホラー世界で生き残るための序盤のコツ。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "回避、武器の切り替え、スタミナ管理、地形をマスターし、PAPERHEAD のあらゆる戦闘を有利に終わらせよう。"
+        },
+        {
+          "number": "3",
+          "title": "武器ガイド",
+          "description": "近距離ショットガンから範囲ブラスターまで、PAPERHEAD の全武器カテゴリを比較し、自分のプレイスタイルに合う装備を組もう。"
+        },
+        {
+          "number": "4",
+          "title": "最初のボスガイド",
+          "description": "攻撃パターンを読み、弱点の隙を見極め、資源を使い果たさずに最初の PAPERHEAD ボスを倒そう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "武器ガイド",
+        "ボスガイド",
+        "すべての秘密"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "PAPERHEAD での最初の一歩から戦闘と進行の習得まで、必要なすべて。",
+          "href": "/guide/paperhead-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "武器ガイド",
+          "description": "ボスや大量の敵の波に備えた装備のアドバイス付きで、PAPERHEAD の全武器カテゴリをランク付け。",
+          "href": "/weapons/paperhead-weapons"
+        },
+        {
+          "badge": "更新",
+          "title": "敵ガイド",
+          "description": "敵の行動、弱点、そしてあらゆる戦闘を有利に変える対策。",
+          "href": "/characters/paperhead-enemies"
+        },
+        {
+          "badge": "人気",
+          "title": "ボスガイド",
+          "description": "PAPERHEAD の全ボスの種類、攻撃パターン、そして各ボスを倒す戦略。",
+          "href": "/characters/paperhead-bosses"
+        },
+        {
+          "badge": "新着",
+          "title": "秘密と隠しエリア",
+          "description": "紙の世界に隠された部屋、別ルート、見落とされがちな仕掛け。",
+          "href": "/guide/paperhead-secrets"
+        },
+        {
+          "badge": "人気",
+          "title": "実績ガイド",
+          "description": "ストーリー、探索、戦闘、秘密の実績を明確な条件付きで解説。",
+          "href": "/guide/paperhead-achievements-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "戦闘の基本",
+          "description": "あらゆる戦闘のための立ち回り、スタミナ管理、武器の切り替え。",
+          "href": "/weapons/paperhead-combat"
+        },
+        {
+          "badge": "人気",
+          "title": "ストーリーと世界観",
+          "description": "PAPERHEAD の物語、アイデンティティ、記憶、そして謎に隠された世界観。",
+          "href": "/mechanics/paperhead-story"
+        },
+        {
+          "badge": "新着",
+          "title": "完全攻略",
+          "description": "PAPERHEAD のキャンペーンを章ごとにたどる完全ルート。",
+          "href": "/guide/paperhead-walkthrough"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "PAPERHEAD とは？",
+      "paragraphs": [
+        "PAPERHEAD は、ダークな段ボールの世界を舞台にした高速な一人称ブーマーシューターです。プレイヤーは武器一式と魔法の鉛筆で紙と段ボールのモンスターの大群をなぎ倒し、血に染まる紙の世界の謎を追います。",
+        "すべてのゾーンはあなたを囲むように折り畳まれ、秘密や収集品、別ルートを隠している。残酷なボス戦と隠された世界観の合間に、PAPERHEAD は好奇心と俊敏さを等しく報いる。"
+      ],
+      "stats": [
+        {
+          "label": "プラットフォーム",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ホラー・ブーマーシューター"
+        },
+        {
+          "label": "ユーザーレビュー",
+          "value": "254"
+        },
+        {
+          "label": "キャンペーン",
+          "value": "1 本プレイ可能"
+        },
+        {
+          "label": "言語",
+          "value": "4"
+        },
+        {
+          "label": "アップデート",
+          "value": "毎週"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "PAPERHEAD Wiki を探索",
+      "description": "初心者向け攻略、武器のティア、敵の解説、隠された秘密、実績の完全追跡まで、PAPERHEAD のあらゆるシステムを深掘り。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "PAPERHEAD 初心者ガイド",
+          "description": "基本のゲームループ、戦闘システム、武器、移動、そして新規プレイヤーが段ボールのホラー世界で生き残るための序盤のコツを扱うスターターガイド。",
+          "href": "/guide/paperhead-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "チュートリアルを見て基本ループを学ぼう：探索、収集、判断、戦闘、休息"
+            },
+            {
+              "label": "2",
+              "detail": "奥へ進む前に、移動、回避、初期武器に慣れておこう"
+            },
+            {
+              "label": "3",
+              "detail": "乏しい資源を管理しよう — 必要なときに使い、不要なときは温存する"
+            },
+            {
+              "label": "4",
+              "detail": "戦闘に入る前に、各敵の攻撃パターンを研究しよう"
+            },
+            {
+              "label": "5",
+              "detail": "地形、チョークポイント、高台を利用して、あらゆる戦闘を制しよう"
+            },
+            {
+              "label": "6",
+              "detail": "重要なストーリーの節目の後でエリアを再訪し、隠された報酬やショートカットを見つけよう"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "PAPERHEAD 武器ガイド",
+          "description": "ショットガン、魔法の鉛筆、範囲ブラスターを含む PAPERHEAD の全武器を、ティアランキングと装備のアドバイス付きで徹底解説。",
+          "href": "/weapons/paperhead-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "重型範囲ブラスター — ボス戦や密集した敵の波で圧倒的な強さ"
+            },
+            {
+              "label": "A",
+              "detail": "精密ライフルと中距離アサルト — ほとんどの戦闘で使える万能な選択"
+            },
+            {
+              "label": "B",
+              "detail": "近距離ショットガン系とサポートツール — 使い手次第で強力"
+            },
+            {
+              "label": "C",
+              "detail": "基本の初期武器 — 序盤は頼れるが、進行に伴い置き換わる"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "PAPERHEAD 敵ガイド",
+          "description": "PAPERHEAD の全敵タイプの行動、弱点、そして致命的な戦闘を楽な攻略に変える対策。",
+          "href": "/characters/paperhead-enemies",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ドローン",
+              "detail": "5 体以上で群がる、素早く不規則な紙のドローン"
+            },
+            {
+              "label": "ブルート",
+              "detail": "鈍重な段ボールタンク — 背後に回り込み、背の折り目を攻撃"
+            },
+            {
+              "label": "ストーカー",
+              "detail": "ステルスから待ち伏せする折り紙のストーカー — 隅々まで警戒しよう"
+            },
+            {
+              "label": "センチネル",
+              "detail": "折り畳まれたセンチネルは遠距離弾を放つ — 遮蔽物を使って距離を詰めよう"
+            },
+            {
+              "label": "レッチ",
+              "detail": "引き裂かれたレッチは群れで突進してくる — 範囲攻撃で応戦しよう"
+            },
+            {
+              "label": "エリート",
+              "detail": "ラミネートのエリートは多段コンボを繰り出す — 隙を覚えよう"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "PAPERHEAD 秘密ガイド",
+          "description": "好奇心旺盛な PAPERHEAD プレイヤーに希少な戦利品と世界観をもたらす、隠しエリア、秘密の部屋、見落とされがちな仕掛け。",
+          "href": "/guide/paperhead-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アーカイブ",
+              "detail": "図書館の裏壁を 3 回折ると「しわくちゃのアーカイブ」が開く"
+            },
+            {
+              "label": "インクの窪み",
+              "detail": "空白の壁を消すと、隠れた NPC と任意のサイドコンテンツが現れる"
+            },
+            {
+              "label": "通路",
+              "detail": "十字路で紙のオブジェクトを 2 つ積み上げると、ゾーンのショートカットが解放される"
+            },
+            {
+              "label": "ノーダメージ",
+              "detail": "ダメージを受けずにゾーンをクリアすると、別エンディングが始まる"
+            },
+            {
+              "label": "余白",
+              "detail": "ゲーム内の本を順番にすべて読むと、開発者コメンタリーが解放される"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "PAPERHEAD 実績ガイド",
+          "description": "ストーリー、探索、戦闘、収集、チャレンジの実績を明確な条件付きで、PAPERHEAD の全トロフィーを解除しよう。",
+          "href": "/guide/paperhead-achievements-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "メインキャンペーンをクリアして、ストーリーの節目を自然に達成しよう"
+            },
+            {
+              "label": "探索",
+              "detail": "マップの徹底調査と隠しエリアの発見を報いる"
+            },
+            {
+              "label": "戦闘",
+              "detail": "特定の条件で敵を倒し、マスタリートロフィーを獲得しよう"
+            },
+            {
+              "label": "収集",
+              "detail": "最も難しい解除のために、あらゆる収集品の種類を探し出そう"
+            },
+            {
+              "label": "秘密",
+              "detail": "隠された実績のために、分かりにくい相互作用やイースターエッグを発動しよう"
+            },
+            {
+              "label": "スピードラン",
+              "detail": "時間や条件の制限内でセクションを突破し、チャレンジを解除しよう"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "PAPERHEAD ストーリーガイド",
+          "description": "PAPERHEAD の物語を完全解説 — 各章に隠されたアイデンティティ、記憶、世界観。",
+          "href": "/mechanics/paperhead-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "アイデンティティ",
+              "detail": "あなたの紙の頭は、下した選択によって書き換えられる"
+            },
+            {
+              "label": "記憶",
+              "detail": "過去がぼやけ矛盾するにつれ、再訪したエリアは変化する"
+            },
+            {
+              "label": "プレッシャー",
+              "detail": "NPC はあなたの以前の決定に基づいて会話を書き換える"
+            },
+            {
+              "label": "エンディング",
+              "detail": "複数のエンディングは、あなたが世界にどう接するかで分岐する"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "PAPERHEAD 動作環境",
+          "description": "プラットフォーム対応、PC 要件、PAPERHEAD の操作体系を、新規プレイヤー向けにまとめた早見表。",
+          "href": "/platforms/paperhead-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "段ボールの世界を移動・ストレイフ"
+            },
+            {
+              "label": "マウス",
+              "detail": "エイム、射撃、戦闘中の武器切り替え"
+            },
+            {
+              "label": "E",
+              "detail": "ドア、メモ、折り畳まれたオブジェクトと相互作用"
+            },
+            {
+              "label": "Shift",
+              "detail": "スプリントと回避で敵の攻撃パターンを崩す"
+            },
+            {
+              "label": "Win 10/11",
+              "detail": "Steam 版には 64 ビット Windows PC が必要"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "PAPERHEAD アップデートとニュース",
+          "description": "公式の PAPERHEAD 発表、パッチノート、デモ情報、リリース情報を一か所に。",
+          "href": "/release/paperhead-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パッチ",
+              "detail": "公式パッチノートとバランス調整を追おう"
+            },
+            {
+              "label": "デモ",
+              "detail": "正式リリース前に無料の Steam デモを試そう"
+            },
+            {
+              "label": "リリース",
+              "detail": "発売日とプラットフォーム展開をチェック"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "公式デモトレーラーとゲームプレイ公開を見よう"
+            },
+            {
+              "label": "サウンドトラック",
+              "detail": "ゲームのオリジナルサウンドトラックと音声リリース"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "PAPERHEAD よくある質問",
+      "description": "PAPERHEAD に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "PAPERHEAD とは？",
+          "answer": "PAPERHEAD は、ダークな段ボールの世界を舞台にした高速な一人称ブーマーシューターです。強力な武器と魔法の鉛筆で紙と段ボールのモンスターと戦いながら、血に染まる紙の世界の謎を解き明かします。"
+        },
+        {
+          "question": "PAPERHEAD は Steam で入手できますか？",
+          "answer": "はい。PAPERHEAD は Steam で販売されている PC ゲームで、クラウドセーブ、実績、そして完全版を購入する前に試せる無料デモに対応しています。"
+        },
+        {
+          "question": "PAPERHEAD は新規プレイヤーにとって難しいですか？",
+          "answer": "PAPERHEAD は容赦ありませんが公平です。初心者ガイドでは移動、武器の切り替え、資源管理を扱い、弾を無駄にせず最初の数時間を生き延びられるようにします。"
+        },
+        {
+          "question": "PAPERHEAD には複数のエンディングがありますか？",
+          "answer": "はい。PAPERHEAD の物語はあなたが世界にどう接するかに反応し、ダメージを受けずにゾーンをクリアすると別エンディングの道が発動することがあります。"
+        },
+        {
+          "question": "PAPERHEAD の全実績を解除するには？",
+          "answer": "PAPERHEAD の実績はストーリーの節目、探索、戦闘の熟練、収集品、秘密、スピードランに及びます。各解除条件は実績ガイドを確認してください。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "PAPERHEAD を極める準備はできた？",
+      "description": "ダークな段ボールの世界での最初の一歩から終盤のボス戦まで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "PAPERHEAD ガイド",
+    "overviewDescription": "攻略、初心者向けのコツ、秘密、実績、PAPERHEAD のクリア時間 — ペーパークラフトホラーを生き抜くために必要なすべて。"
+  },
+  "mechanics": {
+    "overviewTitle": "PAPERHEAD ゲームシステム",
+    "overviewDescription": "PAPERHEAD の仕組み：ストーリーと世界観、複数エンディング、マルチプレイ、グラフィティシステム、そして体験全体を支えるホラーデザイン。"
+  },
+  "characters": {
+    "overviewTitle": "PAPERHEAD キャラクターとボス",
+    "overviewDescription": "PAPERHEAD の登場人物、ボス、敵、声優を紹介し、各キャラクターと戦闘が攻略にどう影響するかのコツも。"
+  },
+  "weapons": {
+    "overviewTitle": "PAPERHEAD 武器と戦闘",
+    "overviewDescription": "PAPERHEAD の武器を比較し、装備を計画し、戦闘をマスターして、行く手のあらゆる段ボールモンスターを吹き飛ばそう。"
+  },
+  "levels": {
+    "overviewTitle": "PAPERHEAD レベルとチャプター",
+    "overviewDescription": "チャプター 1 からチャプター 4 以降までを網羅する、章ごとの PAPERHEAD レベルガイド、収集品、スピードランルート。"
+  },
+  "platforms": {
+    "overviewTitle": "PAPERHEAD プラットフォーム",
+    "overviewDescription": "PAPERHEAD をプレイできる場所 — Steam、Steam Deck、コンソール対応、そして購入前のパフォーマンスとセットアップの詳細。"
+  },
+  "release": {
+    "overviewTitle": "PAPERHEAD リリースとメディア",
+    "overviewDescription": "PAPERHEAD の発売日ニュース、デモの詳細、トレーラー、サウンドトラック、OST で、発売日までゲームを追いかけよう。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "PAPERHEAD Wiki",
+    "about": "PAPERHEAD Wiki は、武器、敵、ボス、秘密、攻略、そして新規・ベテランプレイヤー双方のための必須知識を扱う、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 PAPERHEAD Wiki。PAPERHEAD の開発者や Steam とは提携していません。",
+    "description": "Steam の高速ペーパークラフトホラー・ブーマーシューター。強力な武器と魔法の鉛筆で段ボールのモンスターを吹き飛ばそう。",
+    "playGame": "Steam で PAPERHEAD をプレイ",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "公式 Steam ページ",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "武器ガイド",
+    "bossGuides": "敵ガイド",
+    "buildGuide": "ボスガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
