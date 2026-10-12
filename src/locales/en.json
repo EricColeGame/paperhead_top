@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop of PAPERHEAD — movement, combat, resources and the early-game tips that keep you alive in the cardboard horror world."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Master dodging, weapon switching, stamina pacing and terrain so every encounter in PAPERHEAD ends in your favour."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons Guide",
+          "description": "Compare every PAPERHEAD weapon category, from close-range shotguns to area blasters, and build the loadout that fits your playstyle."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in PAPERHEAD."
+          "title": "First Boss Guide",
+          "description": "Read attack patterns, spot vulnerability windows and beat your first PAPERHEAD boss without burning through all your resources."
         }
       ]
     },
@@ -66,265 +66,367 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Weapons Guide",
+        "Boss Guides",
+        "All Secrets"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first steps to mastering combat and progression in PAPERHEAD.",
+          "href": "/guide/paperhead-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Weapons Guide",
+          "description": "Every PAPERHEAD weapon category ranked with loadout advice for bosses and dense waves.",
+          "href": "/weapons/paperhead-weapons"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Enemies Guide",
+          "description": "Enemy behaviours, weak points and the counters that turn every fight your way.",
+          "href": "/characters/paperhead-enemies"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Boss Guide",
+          "description": "Every PAPERHEAD boss type, attack pattern and the strategy that beats each one.",
+          "href": "/characters/paperhead-bosses"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Secrets & Hidden Areas",
+          "description": "Hidden rooms, alternate routes and overlooked mechanics across the paper world.",
+          "href": "/guide/paperhead-secrets"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Achievements Guide",
+          "description": "Story, exploration, combat and secret unlocks with clear conditions.",
+          "href": "/guide/paperhead-achievements-guide"
+        },
+        {
+          "badge": "New",
+          "title": "Combat Basics",
+          "description": "Positioning, stamina pacing and weapon switching for every encounter.",
+          "href": "/weapons/paperhead-combat"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Story & Lore",
+          "description": "The PAPERHEAD narrative, identity, memory and the lore behind the mystery.",
+          "href": "/mechanics/paperhead-story"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Full Walkthrough",
+          "description": "A complete chapter-by-chapter route through the PAPERHEAD campaign.",
+          "href": "/guide/paperhead-walkthrough"
         }
       ]
     },
     "aboutGame": {
       "title": "What is PAPERHEAD?",
       "paragraphs": [
-        "PAPERHEAD is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "PAPERHEAD is a fast-paced first-person boomer shooter set in a dark cardboard world. Players blast through hordes of paper and cardboard monsters with an arsenal of weapons and a magical pencil, chasing the mystery behind the bleeding paper universe.",
+        "Every zone folds and unfolds around you, hiding secrets, collectibles and alternate routes. Between brutal boss fights and hidden lore, PAPERHEAD rewards curiosity and fast reflexes in equal measure."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "PAPERHEAD"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam (PC)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Horror Boomer Shooter"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "User Reviews",
+          "value": "254"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Campaign",
+          "value": "1 Playable"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Languages",
+          "value": "4"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore PAPERHEAD Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into every PAPERHEAD system with beginner walkthroughs, weapon tiers, enemy breakdowns, hidden secrets and full achievement tracking.",
       "modules": [
         {
           "order": 1,
-          "name": "PAPERHEAD Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/paperhead-codes",
-          "displayType": "code-box",
+          "name": "PAPERHEAD Beginner Guide",
+          "description": "A starter guide covering the core gameplay loop, combat systems, weapons, movement and the early tips that help new players survive the cardboard horror world.",
+          "href": "/guide/paperhead-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Watch the tutorial and learn the core loop: explore, collect, decide, fight and rest"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Get comfortable with movement, dodging and your starting weapon before pushing deeper"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Manage scarce resources — spend when it matters and save when it does not"
+            },
+            {
+              "label": "4",
+              "detail": "Study each enemy's attack pattern before committing to a fight"
+            },
+            {
+              "label": "5",
+              "detail": "Use terrain, chokepoints and high ground to control every encounter"
+            },
+            {
+              "label": "6",
+              "detail": "Revisit areas after key story beats to find hidden rewards and shortcuts"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/paperhead-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "PAPERHEAD Weapons Guide",
+          "description": "A full breakdown of the PAPERHEAD arsenal, including shotguns, the magical pencil and area blasters, with tier rankings and loadout advice.",
+          "href": "/weapons/paperhead-weapons",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Heavy area blaster — dominant in boss fights and dense enemy waves"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Precision rifle and mid-range assault — versatile picks for most encounters"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Close-range shotgun style and support tools — strong in the right hands"
+            },
+            {
+              "label": "C",
+              "detail": "Basic starter weapons — reliable early game, replaced as you progress"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/paperhead-tier-list",
-          "displayType": "tier-grid",
+          "name": "PAPERHEAD Enemies Guide",
+          "description": "Every PAPERHEAD enemy type with behaviour, weak points and the counters that turn a deadly encounter into an easy clear.",
+          "href": "/characters/paperhead-enemies",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Drones",
+              "detail": "Fast, erratic paper drones that swarm in groups of five or more"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Brutes",
+              "detail": "Slow cardboard tanks — circle behind and hit the spine crease"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Stalkers",
+              "detail": "Origami stalkers that ambush from stealth, so watch every corner"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Sentinels",
+              "detail": "Folded sentinels fire ranged projectiles — use cover to close the gap"
+            },
+            {
+              "label": "Wretches",
+              "detail": "Torn wretches rush in swarms, so answer with area attacks"
+            },
+            {
+              "label": "Elites",
+              "detail": "Laminate elites chain multi-phase combos — learn their windows"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/paperhead-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "PAPERHEAD Secrets Guide",
+          "description": "Hidden areas, secret rooms and overlooked mechanics that reward curious PAPERHEAD players with rare loot and lore.",
+          "href": "/guide/paperhead-secrets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Archive",
+              "detail": "Fold the library's back wall three times to open The Crumpled Archive"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Ink Hollow",
+              "detail": "Erase a blank wall to reveal a hidden NPC and optional side content"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Passage",
+              "detail": "Stack two paper objects at the crossroads to unlock a zone shortcut"
+            },
+            {
+              "label": "No-Hit",
+              "detail": "Clear a zone without taking damage to start an alternate ending"
+            },
+            {
+              "label": "Margin",
+              "detail": "Read every in-game book in order to unlock developer commentary"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/paperhead-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "PAPERHEAD Achievements Guide",
+          "description": "Unlock every PAPERHEAD trophy with clear conditions for story, exploration, combat, collectible and challenge achievements.",
+          "href": "/guide/paperhead-achievements-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Story",
+              "detail": "Earn story milestones naturally by finishing the main campaign"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Explore",
+              "detail": "Reward thorough map investigation and hidden-area discovery"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Combat",
+              "detail": "Defeat enemies under specific conditions to claim mastery trophies"
+            },
+            {
+              "label": "Collect",
+              "detail": "Track down every collectible type for the hardest unlocks"
+            },
+            {
+              "label": "Secret",
+              "detail": "Trigger obscure interactions and Easter eggs for hidden achievements"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Beat sections under time or condition limits for challenge unlocks"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/paperhead-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "PAPERHEAD Story Guide",
+          "description": "The full PAPERHEAD narrative explained — identity, memory and the lore hidden in plain sight across every chapter.",
+          "href": "/mechanics/paperhead-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Identity",
+              "detail": "Your paper head is rewritten by the choices you make"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Memory",
+              "detail": "Revisited areas shift as the past blurs and contradicts itself"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Pressure",
+              "detail": "NPCs rewrite their dialogue based on your earlier decisions"
+            },
+            {
+              "label": "Endings",
+              "detail": "Multiple endings branch from how you treat the world"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "PAPERHEAD System Requirements",
+          "description": "Platform support, PC requirements and the PAPERHEAD control scheme in one quick reference for new players.",
+          "href": "/platforms/paperhead-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Move and strafe through the cardboard world"
+            },
+            {
+              "label": "Mouse",
+              "detail": "Aim, fire and swap weapons mid-fight"
+            },
+            {
+              "label": "E",
+              "detail": "Interact with doors, notes and folded objects"
+            },
+            {
+              "label": "Shift",
+              "detail": "Sprint and dodge to break enemy attack patterns"
+            },
+            {
+              "label": "Win 10/11",
+              "detail": "64-bit Windows PC required for the Steam version"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "PAPERHEAD Updates & News",
+          "description": "Official PAPERHEAD announcements, patch notes, demo news and release information in one place.",
+          "href": "/release/paperhead-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Follow official patch notes and balance changes"
+            },
+            {
+              "label": "Demo",
+              "detail": "Try the free Steam demo before the full release"
+            },
+            {
+              "label": "Release",
+              "detail": "Track the launch date and platform rollout"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Watch the official demo trailer and gameplay reveals"
+            },
+            {
+              "label": "OST",
+              "detail": "Original soundtrack and audio releases for the game"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "PAPERHEAD FAQ",
       "description": "Quick answers to the most common questions about PAPERHEAD.",
       "items": [
         {
           "question": "What is PAPERHEAD?",
-          "answer": "PAPERHEAD is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "PAPERHEAD is a fast-paced first-person boomer shooter set in a dark cardboard world. You fight paper and cardboard monsters with powerful weapons and a magical pencil while uncovering the mystery behind the bleeding paper universe."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is PAPERHEAD available on Steam?",
+          "answer": "Yes. PAPERHEAD is a PC game sold on Steam, and it supports cloud saves, achievements and a free demo you can try before you buy the full version."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How difficult is PAPERHEAD for new players?",
+          "answer": "PAPERHEAD is unforgiving but fair. The beginner guide covers movement, weapon switching and resource management so you can survive your first few hours without wasting ammo."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does PAPERHEAD have multiple endings?",
+          "answer": "Yes. The PAPERHEAD story reacts to how you treat the world, and finishing a zone without taking any damage can trigger an alternate ending path."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I unlock every PAPERHEAD achievement?",
+          "answer": "PAPERHEAD achievements span story milestones, exploration, combat mastery, collectibles, secrets and speedruns. Check the achievements guide for each unlock condition."
         }
       ]
     },
